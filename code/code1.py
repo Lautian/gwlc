@@ -1,6 +1,7 @@
 # Some python code
 import os
 import re
+from functools import reduce
 
 def foo(bar=''):
     print(bar)
