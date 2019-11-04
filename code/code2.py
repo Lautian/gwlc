@@ -3,6 +3,6 @@
 import os
 
 def bar(x=0):
-    "A docstring"
+    "Change an added docstring"
     return x + 3
 
