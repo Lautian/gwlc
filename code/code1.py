@@ -7,6 +7,4 @@ from datetime import datetime
 def foo(bar=''):
     print(bar)
 
-def baz(noo):
-    return noo + 1 if noo > 1
-
+# Removed bar function
